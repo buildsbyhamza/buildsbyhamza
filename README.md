@@ -24,7 +24,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="mysql logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" alt="vscode logo" />
 </p>
-
 <br>
 
 ## 🌐 Connect with Me  
@@ -39,18 +38,16 @@
 </div>
 <br>
 
-
 ## 📊 GitHub Stats & Activity  
 <br>
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=buildsbyhamza&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" />
+  <img src="https://github-readme-stats.vercel.app/api?username=buildsbyhamza&show_icons=true&include_all_commits=true&count_private=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" />
   <br><br>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=buildsbyhamza&hide_title=false&background=0,000000,130F40&ring=7A7ADB&fire=7A7ADB&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" alt="Streak Stats" height="165" />
 </div>
 <br>
 <br>
 ⭐️ *“Learning never stops — growing in public, one commit at a time.”*  
-<br>
 <div align="center">
 <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
 <br><br></div>
