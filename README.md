@@ -45,7 +45,7 @@
 <div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=buildsbyhamza&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" />
   <br><br>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=buildsbyhamza&hide_title=false&background=0,000000,130F40&ring=7A7ADB&fire=7A7ADB&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" alt="Streak Stats" height="165" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=muhammadhamza&hide_title=false&background=0,000000,130F40&ring=7A7ADB&fire=7A7ADB&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" alt="Streak Stats" height="165" />
 </div>
 <br>
 <br>
