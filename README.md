@@ -3,6 +3,9 @@
   <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
 </p>
 
+<p align="center">
+  <img src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif"/>
+</p>
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me
 - 🏦 I'm an **AI/ML Enthusiast** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  
