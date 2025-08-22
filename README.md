@@ -1,11 +1,14 @@
-<h3 align="center">Hey 👋 What's Up?</h3>
-<p align="center">
-  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
-</p>
-
-<p align="center">
-  <img src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif"/>
-</p>
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hello+;I'm+Muhammad+Hamza+a+tech+goblin+%E2%9C%A9" width="70%" />
+<br><br>
+<pre>
+    💼 BSCS @ UET  
+    💻 System programming languages • AI • ML 
+    🎮 Music • Games • Anime • Code • Art
+    🐰  Cake & Cookie🐤🐥
+</pre>
+</div>
+<br>
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me
 - 🏦 I'm an **AI/ML Enthusiast** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  
@@ -22,44 +25,35 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" alt="vscode logo" />
 </p>
 
-<br><br>
+<br>
 
 ## 🌐 Connect with Me  
 <br><br>
-<p align="center">
-  <a href="https://twitter.com/your_handle" target="blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" height="40" width="40"/>
-  </a>&nbsp;&nbsp;
-  
-  <a href="https://linkedin.com/in/your_profile" target="blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" width="40"/>
-  </a>&nbsp;&nbsp;
-  
-  <a href="http://discord.com/users/your_discord" target="blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/discord.svg" height="40" width="40" style="filter: invert(50%) sepia(100%) saturate(5000%) hue-rotate(220deg)"/>
-  </a>&nbsp;&nbsp;
-  
-  <a href="https://www.buymeacoffee.com/your_link">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" />
+<div align="center">
+  <a href="https://www.linkedin.com/in/muhammad-hamza-dev/" >
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40"  />
   </a>
-</p>
-
-
-<br><br>
-
-## 📊 GitHub Stats & Activity  
-<br><br>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadHamza&show_icons=true&theme=radical" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadHamza&theme=radical" alt="Streak Stats" height="165"/>
-</p>
-
+  <a href="https://linktr.ee/muhammadhamzadev" >
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linktree/default.svg" width="52" height="40"  />
+  </a>
+</div>
 <br>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadHamza&layout=compact&theme=radical" alt="Top Languages"/>
-</p>
+
+## 📊 GitHub Stats & Activity  
+<br>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=buildsbyhamza&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=buildsbyhamza&hide_title=false&background=0,000000,130F40&ring=7A7ADB&fire=7A7ADB&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" alt="Streak Stats" height="165" />
+
+<br>
+<br>
+⭐️ *“Learning never stops — growing in public, one commit at a time.”*  
 
 <br><br>
+<div align="center">
+<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
+<br><br></div>
 
-⭐️ *“Learning never stops — growing in public, one commit at a time.”*  
+
