@@ -50,8 +50,7 @@
 <br>
 <br>
 ⭐️ *“Learning never stops — growing in public, one commit at a time.”*  
-
-<br><br>
+<br>
 <div align="center">
 <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
 <br><br></div>
